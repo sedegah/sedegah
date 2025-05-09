@@ -15,7 +15,7 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 
 🔭 I’m currently working on **LegonAttend**, a QR-based attendance system for the University of Ghana.  
 🌱 I’m learning **Machine Learning** and **Backend Development** with Python and Node.js.  
-📫 How to reach me: [sedkim@gmail.com](mailto:kimathisedegah@outlook.com)  
+📫 How to reach me: [sedkim370@gmail.com](mailto:kimathisedegah@outlook.com)  
 ⚡ Fun fact: I'm a **trumpeter, saxophonist, and French hornist**.
 
 ---
