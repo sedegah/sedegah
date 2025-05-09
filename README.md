@@ -84,5 +84,12 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 - **[Checkmate Arena](https://checkmatearena-nikm.onrender.com)** - Chess competition management
 - **[Sustainability Hub](https://sustainabilityhub.netlify.app)** - Sustainability awareness platform
 
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimathi-sedegah)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kim.ath.i)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/heiskimathi)
+
 ---
 
