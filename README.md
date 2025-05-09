@@ -1,16 +1,51 @@
-## Hi there 👋
+# ✍️ Random Dev Quote
 
-<!--
-**sedegah/sedegah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi, I'm Kimathi Elikplim Sedegah 👋
+I'm the Founder of Code Cadence, passionate about building innovative software and web applications. I love solving problems, exploring new technologies, and collaborating on exciting projects.
+
+**Tech Stack**:  
+- **Frontend**: JavaScript, React, Next.js, HTML5, CSS3, Tailwind CSS,PHP
+- **Backend**: Node.js, Express, Python
+- **Databases**: PostgreSQL, Supabase, Firebase, Redis
+- **Others**: GitHub, Git, Figma, Docker, Kubernetes, 
+
+🔭 I’m currently working on **LegonAttend**, a QR-based attendance system for the University of Ghana.  
+🌱 I’m learning **Machine Learning** and **Backend Development** with Python and Node.js.  
+📫 How to reach me: [sedkim@gmail.com](mailto:kimathisedegah@outlook.com)  
+⚡ Fun fact: I'm a **trumpeter, saxophonist, and French hornist**.
+
+---
+
+## Connect with me:
+[LinkedIn](https://linkedin.com/in/kimathi-sedegah) | [GitHub](https://github.com/sedegah) | [Portfolio](https://kimathisedegah.vercel.app)
+
+---
+
+## Languages and Tools:
+- **Languages**: JavaScript, TypeScript, Python, C++
+- **Frontend**: React, Next.js, HTML5, CSS3, Tailwind CSS
+- **Backend**: Node.js, Express, Python (Flask/Django)
+- **Databases**: PostgreSQL, Supabase
+- **Tools**: Git, GitHub, Figma, VS Code, Photoshop, Linux
+
+---
+
+## 🚀 Projects:
+- **[SceneRadar](https://sceneradar.onrender.com)** - Movie discovery, rating & news site
+- **[Updevted](https://updevted.onrender.com)** - Dev upvote hub for projects, ideas, and resources
+- **[Code Comparator](https://codecomparator.vercel.app)** - Code difference viewer and AI-assisted comparator
+- **[Acadience](https://acadience.vercel.app)** - QR code-based attendance system
+- **[Polygon (Crypto)](#)** - Real-time crypto tracker (coming soon)
+- **[ResumeCraft](https://craftresume.vercel.app)** - AI-powered resume builder
+- **[DailyScope](https://daily-scope-news.vercel.app)** - Aggregated world & sports news platform
+- **[Code Cadence (v1)](https://codecadence.vercel.app)** - Code Cadence official site (initial version)
+- **[Code Cadence (v2)](https://cadencev2.vercel.app)** - Refreshed, modern version of the Code Cadence site
+- **[Checkmate Arena](https://checkmatearena-nikm.onrender.com)** - Chess competition management
+- **[Sustainability Hub](https://sustainabilityhub.netlify.app)** - Sustainability awareness platform
+
+---
+
