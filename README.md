@@ -21,7 +21,7 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 ---
 ## 🚀 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sedegah&show_icons=true&theme=chartreuse-dark&rank_icon=percentile&custom_title=Sedegah's%20GitHub%20Stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sedegah&show_icons=true&theme=chartreuse-dark&rank_icon=percentile&count_private=true&custom_title=Sedegah's%20GitHub%20Stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sedegah&theme=green-fire)
 
@@ -30,6 +30,7 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 ## 🏆 GitHub Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sedegah&theme=gruvbox&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Connect with me:
 [LinkedIn](https://linkedin.com/in/kimathi-sedegah) | [GitHub](https://github.com/sedegah) | [Portfolio](https://kimathisedegah.vercel.app)
