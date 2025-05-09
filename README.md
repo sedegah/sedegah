@@ -27,8 +27,6 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sedegah&theme=monokai)
 
-![Stats Chart](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sedegah&theme=monokai)
-
 
 ## Connect with me:
 [LinkedIn](https://linkedin.com/in/kimathi-sedegah) | [GitHub](https://github.com/sedegah) | [Portfolio](https://kimathisedegah.vercel.app)
