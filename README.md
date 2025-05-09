@@ -21,15 +21,13 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 ---
 ## 🚀 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sedegah&show_icons=true&theme=chartreuse-dark&rank_icon=percentile&count_private=true&custom_title=Sedegah's%20GitHub%20Stats)
+![Sedegah's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sedegah&theme=monokai)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sedegah&theme=green-fire)
+![GitHub Streak](https://streak-stats.demolab.com?user=sedegah&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sedegah&layout=compact&theme=chartreuse-dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sedegah&theme=monokai)
 
-## 🏆 GitHub Trophies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sedegah&theme=gruvbox&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Stats Chart](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sedegah&theme=monokai)
 
 
 ## Connect with me:
