@@ -52,7 +52,7 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sedegah&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sedegah&theme=monokai)
+
 
 
 ## Connect with me:
