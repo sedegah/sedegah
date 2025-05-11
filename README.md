@@ -6,7 +6,7 @@
 I'm the Founder of Code Cadence, passionate about building innovative software and web applications. I love solving problems, exploring new technologies, and collaborating on exciting projects.
 
 
-## ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
@@ -53,6 +53,7 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
 
 🔭 I’m currently working on **LegonAttend**, a QR-based attendance system for the University of Ghana.  
 🌱 I’m learning **Machine Learning** and **Backend Development** with Python and Node.js.  
