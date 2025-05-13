@@ -64,14 +64,10 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 
 [![Sedegah's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sedegah&theme=github_dark&include_all_commits=true)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sedegah&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sedegah&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sedegah&theme=radical)](https://git.io/streak-stats)  
 
-## 🐍 Contribution Snake  
-![Contributions](https://gh-contribution-stats.vercel.app/api/v1/Sedegah?format=svg)
 
 
 
