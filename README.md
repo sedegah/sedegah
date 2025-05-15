@@ -90,7 +90,7 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 - **[SceneRadar](https://sceneradar.onrender.com)** - Movie discovery, rating & news site
 - **[Updevted](https://updevted.onrender.com)** - Dev upvote hub for projects, ideas, and resources
 - **[Code Comparator](https://codecomparator.vercel.app)** - Code difference viewer and AI-assisted comparator
-- **[Acadience](https://acadience.vercel.app)** - QR code-based attendance system
+- **[Acadience](https://accadience.vercel.app)** - QR code-based attendance system
 - **[Polygon (Crypto)](#)** - Real-time crypto tracker (coming soon)
 - **[ResumeCraft](https://craftresume.vercel.app)** - AI-powered resume builder
 - **[DailyScope](https://daily-scope-news.vercel.app)** - Aggregated world & sports news platform
