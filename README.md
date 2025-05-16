@@ -7,61 +7,59 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 
 
 ## 🛠️ Tech Stack
-
-<p align="left">
+<h2>🚀 Tech Stack</h2>
+<p align="center">
   <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/expo.png" height="40" alt="Expo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" title="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/php.png" alt="PHP" title="PHP"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" title="C++"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/>
   <br /><br />
 
-  <!-- DevOps & Cloud -->
+  <!-- Frontend -->
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" title="React"/>
+  <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" title="Next.js"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-expo-a-free-and-open-source-platform-for-making-universal-native-apps-logo-shadow-tal-revivo.png" alt="Expo" title="Expo"/>
+  <br /><br />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
-  <img src="https://img.icons8.com/color/48/firebase.png" height="40" alt="Firebase" />
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/socket-io.png" height="40" alt="Socket.io" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <!-- Backend / APIs -->
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" title="Node.js"/>
+  <img src="https://img.icons8.com/ios-filled/50/socket-io.png" alt="Socket.io" title="Socket.io"/>
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase"/>
+  <img src="https://img.icons8.com/ios-filled/50/api-settings.png" alt="APIs" title="API Integration"/>
   <br /><br />
 
   <!-- Databases -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
-  <img src="https://avatars.githubusercontent.com/u/67473903?s=200&v=4" height="40" alt="Upstash" />
-  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" height="40" alt="Supabase" />
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-supabase-an-open-source-firebase-alternative-logo-color-tal-revivo.png" alt="Supabase" title="Supabase"/>
+  <img src="https://avatars.githubusercontent.com/u/67473903?s=200&v=4" width="40" alt="Upstash" title="Upstash"/>
+  <img src="https://img.icons8.com/color/48/redis.png" alt="Redis" title="Redis"/>
   <br /><br />
 
-  <!-- Deployment -->
-
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="40" alt="Netlify" />
-  <img src="https://avatars.githubusercontent.com/u/62069920?s=200&v=4" height="40" alt="Render" />
-  <img src="https://avatars.githubusercontent.com/u/59569537?s=200&v=4" height="40" alt="Railway" />
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="40" alt="Vercel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Heroku" />
-  <img src="https://avatars.githubusercontent.com/u/53226378?s=200&v=4" height="40" alt="Appwrite" />
-  <img src="https://avatars.githubusercontent.com/u/73840827?s=200&v=4" height="40" alt="Alchemy" />
+  <!-- DevOps & Hosting -->
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" title="Docker"/>
+  <img src="https://img.icons8.com/ios-filled/50/azure-1.png" alt="Azure" title="Azure"/>
+  <img src="https://img.icons8.com/ios-filled/50/heroku.png" alt="Heroku" title="Heroku"/>
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" alt="Netlify" title="Netlify"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" alt="Vercel" title="Vercel"/>
+  <img src="https://avatars.githubusercontent.com/u/62069920?s=200&v=4" width="40" alt="Render" title="Render"/>
+  <img src="https://avatars.githubusercontent.com/u/59569537?s=200&v=4" width="40" alt="Railway" title="Railway"/>
+  <img src="https://avatars.githubusercontent.com/u/53226378?s=200&v=4" width="40" alt="Appwrite" title="Appwrite"/>
+  <img src="https://avatars.githubusercontent.com/u/73840827?s=200&v=4" width="40" alt="Alchemy" title="Alchemy"/>
   <br /><br />
 
-  <!-- Tools & Design -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
+  <!-- Tools -->
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux" title="Linux"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" title="Figma"/>
+  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="Photoshop" title="Photoshop"/>
 </p>
 
 
