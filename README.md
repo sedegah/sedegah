@@ -82,14 +82,6 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 [LinkedIn](https://linkedin.com/in/kimathi-sedegah) | [GitHub](https://github.com/sedegah) | [Portfolio](https://kimathisedegah.vercel.app)
 
 ---
-
-## Languages and Tools:
-- **Languages**: JavaScript, TypeScript, Python, C++
-- **Frontend**: React, Next.js, HTML5, CSS3, Tailwind CSS
-- **Backend**: Node.js, Express, Python (Flask/Django)
-- **Databases**: PostgreSQL, Supabase
-- **Tools**: Git, GitHub, Figma, VS Code, Photoshop, Linux
-
 ---
 
 ## 🚀 Projects:
