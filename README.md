@@ -68,6 +68,8 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sedegah&theme=radical)](https://git.io/streak-stats)  
 
+![Profile Views](https://komarev.com/ghpvc/?username=Sedegah&style=flat-square&color=blue)
+
 
 
 
