@@ -118,6 +118,7 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20Addict-F06529?style=for-the-badge&logo=codewars&logoColor=white" />
   <img src="https://img.shields.io/badge/Midnight%20Committer-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version%20Control%20Pro-181717?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Terminal%20Warrior-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
