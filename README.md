@@ -2,6 +2,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sedegah/Sedegah/main/header.svg" width="100%" alt="Kimathi Elikplim Sedegah">
+</p>
+
+ 
 ## Hi, I'm Kimathi Elikplim Sedegah 
 I'm the Founder of Code Cadence, passionate about building innovative software and web applications. I love solving problems, exploring new technologies, and collaborating on exciting projects.
 
