@@ -1,9 +1,8 @@
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sedegah/Sedegah/main/header.svg" width="100%" alt="Kimathi Elikplim Sedegah">
+  <img src="https://raw.githubusercontent.com/Sedegah/Sedegah/main/header.svg" width="100%" alt="Kimathi Sedegah Header" />
 </p>
 
  
