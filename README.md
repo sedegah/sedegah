@@ -113,14 +113,19 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/heiskimathi)
 
 ---
+<h3 align="center">🏆 Custom Achievements</h3>
 
-![Code Addict](https://img.shields.io/badge/Code%20Addict-F06529?style=for-the-badge&logo=codewars&logoColor=white)
-![Open Source Supporter](https://img.shields.io/badge/Open%20Source%20Supporter-57AE4C?style=for-the-badge&logo=github&logoColor=white)
-![Midnight Committer](https://img.shields.io/badge/Midnight%20Committer-6e40c9?style=for-the-badge&logo=github&logoColor=white)
-![Terminal Warrior](https://img.shields.io/badge/Terminal%20Warrior-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Addict-F06529?style=for-the-badge&logo=codewars&logoColor=white" />
+  <img src="https://img.shields.io/badge/Midnight%20Committer-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal%20Warrior-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
 
-![Bug Squasher](https://img.shields.io/badge/Bug%20Squasher-DD4B25?style=for-the-badge&logo=bugatti&logoColor=white)
-![Stack Overflow Lurker](https://img.shields.io/badge/Stack%20Overflow%20Lurker-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Bug%20Squasher-DD4B25?style=for-the-badge&logo=bugatti&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack%20Overflow%20Lurker-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</p>
 
-> Writes code before breakfast — Actively contributes to open source — Pushes code after 2 A.M — Comfortable in the Linux shell — Fixes bugs like a ninja — Finds magic in Stack Overflow
-
+<p align="center">
+  Writes code before breakfast — Pushes code after 2 A.M — Comfortable in the Linux shell — Fixes bugs like a ninja — Finds magic in Stack Overflow
+</p>
