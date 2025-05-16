@@ -124,6 +124,7 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bug%20Squasher-DD4B25?style=for-the-badge&logo=bugatti&logoColor=white" />
+  <img src="https://img.shields.io/badge/Caffeine%20Powered-6f4e37?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack%20Overflow%20Lurker-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </p>
 
