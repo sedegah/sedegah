@@ -7,60 +7,52 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 
 
 ## 🛠️ Tech Stack
-<h2>🚀 Tech Stack</h2>
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" title="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/color/48/php.png" alt="PHP" title="PHP"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" title="C++"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/>
-  <br /><br />
 
-  <!-- Frontend -->
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" title="React"/>
-  <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" title="Next.js"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-expo-a-free-and-open-source-platform-for-making-universal-native-apps-logo-shadow-tal-revivo.png" alt="Expo" title="Expo"/>
-  <br /><br />
+**Languages & Frameworks:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-  <!-- Backend / APIs -->
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" title="Node.js"/>
-  <img src="https://img.icons8.com/ios-filled/50/socket-io.png" alt="Socket.io" title="Socket.io"/>
-  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase"/>
-  <img src="https://img.icons8.com/ios-filled/50/api-settings.png" alt="APIs" title="API Integration"/>
-  <br /><br />
+**DevOps & Cloud:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge\&logo=microsoft-azure\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge\&logo=socket.io\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
-  <!-- Databases -->
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL"/>
-  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-supabase-an-open-source-firebase-alternative-logo-color-tal-revivo.png" alt="Supabase" title="Supabase"/>
-  <img src="https://avatars.githubusercontent.com/u/67473903?s=200&v=4" width="40" alt="Upstash" title="Upstash"/>
-  <img src="https://img.icons8.com/color/48/redis.png" alt="Redis" title="Redis"/>
-  <br /><br />
+**Databases:**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-01B755?style=for-the-badge\&logo=upstash\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
-  <!-- DevOps & Hosting -->
-  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" title="Docker"/>
-  <img src="https://img.icons8.com/ios-filled/50/azure-1.png" alt="Azure" title="Azure"/>
-  <img src="https://img.icons8.com/ios-filled/50/heroku.png" alt="Heroku" title="Heroku"/>
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" alt="Netlify" title="Netlify"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" alt="Vercel" title="Vercel"/>
-  <img src="https://avatars.githubusercontent.com/u/62069920?s=200&v=4" width="40" alt="Render" title="Render"/>
-  <img src="https://avatars.githubusercontent.com/u/59569537?s=200&v=4" width="40" alt="Railway" title="Railway"/>
-  <img src="https://avatars.githubusercontent.com/u/53226378?s=200&v=4" width="40" alt="Appwrite" title="Appwrite"/>
-  <img src="https://avatars.githubusercontent.com/u/73840827?s=200&v=4" width="40" alt="Alchemy" title="Alchemy"/>
-  <br /><br />
+**Deployment Platforms:**
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge\&logo=railway\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge\&logo=heroku\&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge\&logo=appwrite\&logoColor=white)
+![Alchemy](https://img.shields.io/badge/Alchemy-14142B?style=for-the-badge\&logo=alchemy\&logoColor=white)
 
-  <!-- Tools -->
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/>
-  <img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" title="GitHub"/>
-  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux" title="Linux"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
-  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" title="Figma"/>
-  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="Photoshop" title="Photoshop"/>
-</p>
+**Tools & Design:**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge\&logo=adobe-photoshop\&logoColor=white)
 
 
 
