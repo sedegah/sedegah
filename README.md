@@ -58,7 +58,7 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge\&logo=adobe-photoshop\&logoColor=white)
-
+![n8n](https://img.shields.io/badge/n8n-A463F2?style=for-the-badge&logo=n8n&logoColor=white)
 
 
 🔭 I’m currently working on **Acadience**, a QR-based attendance system.  
@@ -105,7 +105,7 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/heiskimathi)
 
 ---
-<h3 align="center">🏆 Custom Achievements</h3>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20Addict-F06529?style=for-the-badge&logo=codewars&logoColor=white" />
