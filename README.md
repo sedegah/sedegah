@@ -68,8 +68,6 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sedegah&theme=radical)](https://git.io/streak-stats)  
 
-[![Snake animation](https://github.com/Sedegah.png?snake=1)](https://github.com/Sedegah)
-
 
 
 
