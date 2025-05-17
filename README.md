@@ -82,8 +82,6 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 [LinkedIn](https://linkedin.com/in/kimathi-sedegah) | [GitHub](https://github.com/sedegah) | [Portfolio](https://kimathisedegah.vercel.app)
 
 ---
----
-
 ## 🚀 Projects:
 - **[DailyScope](https://daily-scope-news.vercel.app)** - Aggregated world & sports news platform
 - **[Code Cadence (v1)](https://codecadence.vercel.app)** - Code Cadence official site (initial version)
