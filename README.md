@@ -73,6 +73,7 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 
 [![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sedegah&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sedegah&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
