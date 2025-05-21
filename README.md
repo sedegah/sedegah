@@ -75,7 +75,6 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sedegah&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedegah&layout=compact&count_private=true&hide=html,css&theme=tokyonight)](https://github.com/sedegah)
 
 
 
