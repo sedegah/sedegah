@@ -1,7 +1,7 @@
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
-*Github top overall contributors Ghana* [![committers.top badge](https://user-badge.committers.top/ghana_private/sedegah.svg)](https://user-badge.committers.top/ghana_private/sedegah)
+*Github top overall contributors Ghana*    [![committers.top badge](https://user-badge.committers.top/ghana_private/sedegah.svg)](https://user-badge.committers.top/ghana_private/sedegah)
 
 
 
