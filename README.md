@@ -86,19 +86,7 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 [LinkedIn](https://linkedin.com/in/kimathi-sedegah) | [GitHub](https://github.com/sedegah) | [Portfolio](https://kimathisedegah.vercel.app)
 
 ---
-## 🚀 Projects:
-- **[DailyScope](https://daily-scope-news.vercel.app)** - Aggregated world & sports news platform
-- **[Code Cadence (v1)](https://codecadence.vercel.app)** - Code Cadence official site (initial version)
-- **[Updevted](https://updevted.onrender.com)** - Dev upvote hub for projects, ideas, and resources
-- **[Sustainability Hub](https://sustainabilityhub.netlify.app)** - Sustainability awareness platform
-- **[SceneRadar](https://sceneradar.onrender.com)** - Movie discovery, rating & news site
-- **[Code Comparator](https://codecomparator.vercel.app)** - Code difference viewer and AI-assisted comparator
-- **[Acadience](https://accadience.vercel.app)** - QR code-based attendance system
-- **[Polygon (Crypto)](#)** - Real-time crypto tracker (coming soon)
-- **[ResumeCraft](https://craftresume.vercel.app)** - AI-powered resume builder
-- **[Code Cadence (v2)](https://cadencev2.vercel.app)** - Refreshed, modern version of the Code Cadence site
-- **[Checkmate Arena](https://checkmatearena-nikm.onrender.com)** - Chess competition management
-
+## 
 
 ## 🌐 Socials
 
