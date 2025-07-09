@@ -3,7 +3,7 @@
 ---
 *Github top overall contributors Ghana*    [![committers.top badge](https://user-badge.committers.top/ghana_private/sedegah.svg)](https://user-badge.committers.top/ghana_private/sedegah)
 
-[![committers.top badge](https://user-badge.committers.top/ghana/USERNAME.svg)](https://user-badge.committers.top/ghana/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/ghana_public/USERNAME.svg)](https://user-badge.committers.top/ghana_public/USERNAME)
 
 
 ## Hi, I'm Kimathi Elikplim Sedegah 
