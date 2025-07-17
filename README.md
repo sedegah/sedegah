@@ -97,7 +97,7 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/heiskimathi)
 
 ---
-![Visitors](https://shields.io/endpoint?url=https://countapi.xyz/hit/kimathisedegah.github.io/visits)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kimathisedegah.kimathisedegah)
 
 
 <p align="center">
