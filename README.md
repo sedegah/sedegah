@@ -80,7 +80,7 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sedegah&theme=dark&hide_border=true)](https://github.com/Sedegah)
 
-
+![Profile Hits](https://img.shields.io/badge/Profile%20Views-2.6k%2B-purple?style=flat-square&logo=github)
 
 
 
