@@ -3,9 +3,6 @@
 ---
 *Github top overall contributors Ghana*    [![committers.top badge](https://user-badge.committers.top/ghana_private/sedegah.svg)](https://user-badge.committers.top/ghana_private/sedegah)
 
-*Github top public contributors Ghana*    [![committers.top badge](https://user-badge.committers.top/ghana/sedegah.svg)](https://user-badge.committers.top/ghana/sedegah)
-
-
 
 ## Hi, I'm Kimathi Elikplim Sedegah 
 I'm the Founder of Code Cadence, passionate about building innovative software and web applications. I love solving problems, exploring new technologies, and collaborating on exciting projects.
@@ -80,9 +77,7 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sedegah&theme=dark&hide_border=true)](https://github.com/Sedegah)
 
-![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sedegah&theme=dark)
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sedegah&theme=dark)
+![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sedegah&theme=dark)![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sedegah&theme=dark)
 
 
 
