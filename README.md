@@ -82,7 +82,9 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sedegah&theme=dark&hide_border=true)](https://github.com/Sedegah)
 
-![Profile Hits](https://img.shields.io/badge/Profile%20Views-2.3k%2B-purple?style=flat-square&logo=github)
+![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sedegah&theme=dark)
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sedegah&theme=dark)
 
 
 
