@@ -3,7 +3,7 @@
 ---
 *Github top overall contributors Ghana*    [![committers.top badge](https://user-badge.committers.top/ghana_private/sedegah.svg)](https://user-badge.committers.top/ghana_private/sedegah)
 
-[![committers.top badge](https://user-badge.committers.top/ghana/sedegah.svg)](https://user-badge.committers.top/ghana/sedegah)
+*Github top public contributors Ghana*    [![committers.top badge](https://user-badge.committers.top/ghana/sedegah.svg)](https://user-badge.committers.top/ghana/sedegah)
 
 
 
