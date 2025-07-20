@@ -79,8 +79,6 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 
 ![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sedegah&theme=dark)![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sedegah&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sedegah&show_icons=true&theme=github_dark)
-
 
 ## 🌐 Socials
 
