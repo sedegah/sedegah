@@ -71,7 +71,7 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 ⚡ Fun fact: I'm a **trumpeter, saxophonist, and French hornist**.
 
 ---
-## 🚀 GitHub Stats:
+##  GitHub Stats:
 
 [![Sedegah's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sedegah&theme=dark)](https://github.com/Sedegah)
 
@@ -79,13 +79,6 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 
 ![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sedegah&theme=dark)![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sedegah&theme=dark)
 
-
-
-## Connect with me:
-[LinkedIn](https://linkedin.com/in/kimathi-sedegah) | [GitHub](https://github.com/sedegah) | [Portfolio](https://kimathisedegah.vercel.app)
-
----
-## 
 
 ## 🌐 Socials
 
