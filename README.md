@@ -8,7 +8,7 @@
 I'm the Founder of Code Cadence, passionate about building innovative software and web applications. I love solving problems, exploring new technologies, and collaborating on exciting projects.
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Frameworks**
 
@@ -65,10 +65,10 @@ I'm the Founder of Code Cadence, passionate about building innovative software a
 ![n8n](https://img.shields.io/badge/n8n-A463F2?style=for-the-badge&logo=n8n&logoColor=white)
 
 
-🔭 I’m currently working on **Acadience**, a QR-based attendance system.  
-🌱 I’m learning **Machine Learning** and **Backend Development** with Python and Node.js.  
-📫 How to reach me: [sedkim370@gmail.com](mailto:kimathisedegah@outlook.com)  
-⚡ Fun fact: I'm a **trumpeter, saxophonist, and French hornist**.
+ I’m currently working on **Acadience**, a QR-based attendance system.  
+ I’m learning **Machine Learning** and **Backend Development** with Python and Node.js.  
+ How to reach me: [sedkim370@gmail.com](mailto:kimathisedegah@outlook.com)  
+ Fun fact: I'm a **trumpeter, saxophonist, and French hornist**.
 
 ---
 ##  GitHub Stats:
