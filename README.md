@@ -3,11 +3,9 @@
 
 ---
 
-**Top Overall Contributors — Ghana**  
-[![committers.top badge](https://user-badge.committers.top/ghana_private/sedegah.svg)](https://user-badge.committers.top/ghana_private/sedegah)
+**Top Overall Contributors — Ghana**  [![committers.top badge](https://user-badge.committers.top/ghana_private/sedegah.svg)](https://user-badge.committers.top/ghana_private/sedegah)
 
-**Top Public Contributors — Ghana**  
-[![committers.top badge](https://user-badge.committers.top/ghana/sedegah.svg)](https://user-badge.committers.top/ghana/sedegah)
+**Top Public Contributors — Ghana**  [![committers.top badge](https://user-badge.committers.top/ghana/sedegah.svg)](https://user-badge.committers.top/ghana/sedegah)
 
 
 ## 👋 Hi, I’m **Kimathi Elikplim Sedegah**
