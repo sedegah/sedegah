@@ -2,9 +2,6 @@
 > — *Cory House*
 
 ---
-
-### 🇬🇭 GitHub Recognition
-
 **GitHub Top Overall Contributors — Ghana**  
 [![committers.top badge](https://user-badge.committers.top/ghana_private/sedegah.svg)](https://user-badge.committers.top/ghana_private/sedegah)
 
@@ -13,15 +10,13 @@
 
 ---
 
-## Hi, I'm Kimathi Elikplim Sedegah
-
+## Hi, I'm Kimathi Elikplim Sedegah 
 I'm passionate about building innovative software and web applications. I enjoy solving problems, exploring new technologies, and collaborating on exciting projects.
 
----
 
-## Tech Stack
+##  Tech Stack
 
-### **Languages & Frameworks**
+**Languages & Frameworks**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,45 +29,38 @@ I'm passionate about building innovative software and web applications. I enjoy 
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=swipl&logoColor=white)
+ 
+**DevOps & Cloud:**
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge\&logo=socket.io\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
-### **DevOps & Cloud**
+**Databases:**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-01B755?style=for-the-badge\&logo=upstash\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
----
+**Tools & Design:**
 
-### **Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Upstash](https://img.shields.io/badge/Upstash-01B755?style=for-the-badge&logo=upstash&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-
-### **Tools & Design**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-A463F2?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
-
-## GitHub Stats
+##  GitHub Stats
 
 [![Sedegah's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sedegah&theme=github_dark)](https://github.com/sedegah)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sedegah&theme=github-dark&hide_border=true)](https://github.com/sedegah)
 
----
+
 
 ## Socials
 
@@ -80,7 +68,7 @@ I'm passionate about building innovative software and web applications. I enjoy 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kim.ath.i)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mr.kimathi)
 
----
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20Addict-F06529?style=for-the-badge&logo=codewars&logoColor=white" />
