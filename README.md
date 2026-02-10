@@ -50,9 +50,9 @@ I'm passionate about building innovative software and web applications. I enjoy 
 ---
 ##  GitHub Stats
 
-[![Sedegah's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sedegah&theme=github_dark)](https://github.com/sedegah)
+[![Sedegah's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sedegah&theme=github_dark)](https://github.com/sedega)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sedegah&theme=github-dark&hide_border=true)](https://github.com/sedegah)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sedegah&theme=github-dark&hide_border=true)](https://github.com/sedega)
 
 
 
