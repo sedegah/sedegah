@@ -2,11 +2,11 @@
 > — *Cory House*
 
 ---
-**GitHub Top Overall Contributors — Ghana**  
-[![committers.top badge](https://user-badge.committers.top/ghana_private/sedega.svg)](https://user-badge.committers.top/ghana_private/sedegah)
-
 **GitHub Top Public Contributors — Ghana**  
-[![committers.top badge](https://user-badge.committers.top/ghana/sedega.svg)](https://user-badge.committers.top/ghana/sedegah)
+[![committers.top badge](https://user-badge.committers.top/ghana/sedegah.svg)](https://user-badge.committers.top/ghana/sedegah)
+
+**GitHub Top Overall Contributors — Ghana**  
+[![committers.top badge](https://user-badge.committers.top/ghana_private/sedegah.svg)](https://user-badge.committers.top/ghana_private/sedegah)
 
 ---
 
