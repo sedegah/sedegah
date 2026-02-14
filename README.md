@@ -3,10 +3,10 @@
 
 ---
 **GitHub Top Overall Contributors — Ghana**  
-[![committers.top badge](https://user-badge.committers.top/ghana_private/sedegah.svg)](https://user-badge.committers.top/ghana_private/sedegah)
+[![committers.top badge](https://user-badge.committers.top/ghana_private/sedegah.svg)](https://user-badge.committers.top/ghana_private/sedega)
 
 **GitHub Top Public Contributors — Ghana**  
-[![committers.top badge](https://user-badge.committers.top/ghana/sedegah.svg)](https://user-badge.committers.top/ghana/sedegah)
+[![committers.top badge](https://user-badge.committers.top/ghana/sedegah.svg)](https://user-badge.committers.top/ghana/sedega)
 
 ---
 
