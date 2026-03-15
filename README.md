@@ -11,8 +11,7 @@
 ---
 
 ## Hi, I'm Kimathi Elikplim Sedegah 
-I'm passionate about building innovative software and web applications. I enjoy solving problems, exploring new technologies, and collaborating on exciting projects.
-
+Building software, exploring new technologies, and collaborating on interesting projects.
 
 ##  Tech Stack
 
