@@ -57,23 +57,78 @@ Current interests include:
 
 # Selected Projects
 
-### BlackIce
-Hybrid network security platform combining **Go-based packet capture** with a **Python anomaly detection engine** for real-time traffic intelligence.
+## 💼 Featured Projects
 
-### Graphium
-High-performance dependency analyzer for **JavaScript and TypeScript codebases** that visualizes relationships and architecture across large repositories.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Invisible Characters</h3>
+      <p align="center">
+        <a href="https://github.com/sedegah/Invisible-Characters">
+          <img src="https://img.shields.io/badge/View%20Repo-302b63?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>A powerful web application for detecting invisible Unicode characters and comparing code with intelligent language detection. Designed to uncover hidden characters that can cause bugs, security issues, or obfuscation.</p>
+      <p><strong>Stack:</strong> TypeScript · Next.js · Tailwind · Unicode Analysis</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">BlackIce</h3>
+      <p align="center">
+        <a href="https://github.com/sedegah/BlackIce">
+          <img src="https://img.shields.io/badge/View%20Repo-302b63?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>A hybrid network security system combining high-performance packet capture in Go with a Python neural engine for real-time anomaly detection and network threat analysis.</p>
+      <p><strong>Stack:</strong> Go · Python · Network Security · Machine Learning</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Graphium</h3>
+      <p align="center">
+        <a href="https://github.com/sedegah/Graphium">
+          <img src="https://img.shields.io/badge/View%20Repo-302b63?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>A high-performance visual dependency analyzer for modern JavaScript and TypeScript codebases that maps relationships between modules and helps developers understand complex architectures.</p>
+      <p><strong>Stack:</strong> JavaScript · TypeScript · Static Analysis · Visualization</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">ETA – Accra Traffic Prediction</h3>
+      <p align="center">
+        <a href="https://github.com/sedegah/eta">
+          <img src="https://img.shields.io/badge/View%20Repo-302b63?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>A machine learning system for predicting traffic speeds and estimating travel times across Accra using data-driven modeling and predictive analytics.</p>
+      <p><strong>Stack:</strong> Python · Machine Learning · Jupyter · Data Analysis</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">MeshTalk</h3>
+      <p align="center">
+        <a href="https://github.com/sedegah/MeshTalk">
+          <img src="https://img.shields.io/badge/View%20Repo-302b63?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>A fast terminal-based LAN chat system supporting real-time communication, private messaging, and multi-user sessions built with low-level networking in C++.</p>
+      <p><strong>Stack:</strong> C++ · Networking · Socket Programming</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">YtGrab</h3>
+      <p align="center">
+        <a href="https://github.com/sedegah/YtGrab">
+          <img src="https://img.shields.io/badge/View%20Repo-302b63?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>A fast cross-platform CLI media downloader designed for automation workflows and scripting environments.</p>
+      <p><strong>Stack:</strong> Go · CLI Tools · Automation</p>
+    </td>
+  </tr>
+</table>
 
-### Kubernetes-Clone
-Simplified container orchestration system implemented in **Go and Python**, exploring scheduling, cluster state management, and node resource allocation.
-
-### MeshTalk
-Terminal-based **LAN chat system written in C++** enabling multi-user messaging with real-time socket communication.
-
-### Invisible Characters
-Static analysis tool designed to **detect hidden Unicode characters and code obfuscation issues** in software projects.
-
-### NetSage
-Explainable **network diagnostic expert system** using rule-based reasoning, certainty factors, and backward chaining.
+---
 
 ---
 
