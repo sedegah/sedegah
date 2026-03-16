@@ -57,8 +57,6 @@ Current interests include:
 
 # Selected Projects
 
-## 💼 Featured Projects
-
 <table>
   <tr>
     <td width="50%">
@@ -127,8 +125,6 @@ Current interests include:
     </td>
   </tr>
 </table>
-
----
 
 ---
 
