@@ -42,7 +42,7 @@
 
 Computer Science student at the University of Ghana focused on building **systems software, intelligent infrastructure, and developer tools**.
 
-My projects often explore how software can **observe, analyze, and explain complex systems** — from **network security engines** to **codebase dependency analyzers and expert systems**.
+My projects often explore how software can **observe, analyze, and explain complex systems**, from **network security engines** to **codebase dependency analyzers and expert systems**.
 
 Current interests include:
 
