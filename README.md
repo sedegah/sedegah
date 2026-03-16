@@ -1,58 +1,116 @@
-> **“Code is like humor. When you have to explain it, it’s bad.”**  
-> — Cory House
+<div align="center">
 
-## GitHub Contributor Rankings (Ghana)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kimathi%20Sedegah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Systems%20Developer%20%7C%20AI%20%7C%20Networking%20%7C%20Developer%20Tools&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-**Top Public Contributors**  
-[![committers.top badge](https://user-badge.committers.top/ghana_public/sedegah.svg)](https://user-badge.committers.top/ghana_public/sedegah)
+<br/>
 
-**Top Overall Contributors**  
-[![committers.top badge](https://user-badge.committers.top/ghana_private/sedegah.svg)](https://user-badge.committers.top/ghana_private/sedega)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Exploring+Networks+and+Infrastructure;Developer+Tools+and+Automation;Researching+Knowledge+Based+Systems)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kimathi.tech-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kimathi.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimathi-sedegah)
+[![Email](https://img.shields.io/badge/Email-sedkim370@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sedkim370@gmail.com)
+[![CodeCadence](https://img.shields.io/badge/CodeCadence-codecadence.dev-302b63?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.codecadence.dev)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sedegah&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/sedegah?style=for-the-badge&color=302b63&labelColor=0f0c29&label=FOLLOWERS)
+
+</div>
 
 ---
 
-## Hi, I'm Kimathi Elikplim Sedegah
+> **“Code is like humor. When you have to explain it, it’s bad.”**  
+> — Cory House
 
-Building software, exploring new technologies, and collaborating on interesting projects.
+---
 
-## Tech Stack
+# GitHub Contributor Rankings (Ghana)
 
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**Top Public Contributors**
+
+[![committers.top badge](https://user-badge.committers.top/ghana_public/sedegah.svg)](https://user-badge.committers.top/ghana_public/sedegah)
+
+**Top Overall Contributors**
+
+[![committers.top badge](https://user-badge.committers.top/ghana_private/sedegah.svg)](https://user-badge.committers.top/ghana_private/sedegah)
+
+---
+
+# About
+
+Computer Science student at the University of Ghana focused on building **systems software, intelligent infrastructure, and developer tools**.
+
+My projects often explore how software can **observe, analyze, and explain complex systems** — from **network security engines** to **codebase dependency analyzers and expert systems**.
+
+Current interests include:
+
+- distributed systems
+- networking and infrastructure tooling
+- machine learning for system analysis
+- knowledge-based expert systems
+- developer productivity tools
+
+---
+
+# Selected Projects
+
+### BlackIce
+Hybrid network security platform combining **Go-based packet capture** with a **Python anomaly detection engine** for real-time traffic intelligence.
+
+### Graphium
+High-performance dependency analyzer for **JavaScript and TypeScript codebases** that visualizes relationships and architecture across large repositories.
+
+### Kubernetes-Clone
+Simplified container orchestration system implemented in **Go and Python**, exploring scheduling, cluster state management, and node resource allocation.
+
+### MeshTalk
+Terminal-based **LAN chat system written in C++** enabling multi-user messaging with real-time socket communication.
+
+### Invisible Characters
+Static analysis tool designed to **detect hidden Unicode characters and code obfuscation issues** in software projects.
+
+### NetSage
+Explainable **network diagnostic expert system** using rule-based reasoning, certainty factors, and backward chaining.
+
+---
+
+# Technology Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=swipl&logoColor=white)
 
-### DevOps & Cloud
+---
+
+### Infrastructure & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Upstash](https://img.shields.io/badge/Upstash-01B755?style=for-the-badge&logo=upstash&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Tools & Design
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-A463F2?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Networking-Sockets-000000?style=for-the-badge)
 
 ---
 
-## GitHub Stats
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+# GitHub Stats
 
 [![Sedegah's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sedegah&theme=tokyonight&v=2)](https://github.com/sedegah)
 
@@ -60,27 +118,23 @@ Building software, exploring new technologies, and collaborating on interesting 
 
 ---
 
-## Connect with Me
+# Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimathi-sedegah)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kim.ath.i)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mr.kimathi)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mr.kimathi)
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20Addict-F06529?style=for-the-badge&logo=codewars&logoColor=white" />
-  <img src="https://img.shields.io/badge/Midnight%20Committer-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Version%20Control%20Pro-181717?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terminal%20Warrior-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Code%20Addict-F06529?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Terminal%20User-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux%20Environment-FCC624?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Midnight%20Committer-6e40c9?style=for-the-badge"/>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bug%20Squasher-DD4B25?style=for-the-badge&logo=bugatti&logoColor=white" />
-  <img src="https://img.shields.io/badge/Caffeine%20Powered-6f4e37?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack%20Overflow%20Lurker-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-</p>
-
-<p align="center">
-Writes code before breakfast • Pushes commits after 2 A.M • Comfortable in the Linux shell • Fixes bugs like a ninja • Finds magic in Stack Overflow
+Writes code before breakfast • pushes commits after 2 A.M • comfortable in the Linux shell • enjoys building systems that explain themselves
 </p>
