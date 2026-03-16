@@ -136,17 +136,27 @@ Current interests include:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
 
-Systems programming, networking tools, distributed systems experiments.
+Systems programming, networking tools, and distributed systems experimentation.
 
 ---
 
-### AI / Data / Knowledge Systems
+### AI / Knowledge Systems
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=swipl&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
-Machine learning pipelines, reasoning engines, and knowledge-based expert systems.
+Machine learning pipelines, reasoning engines, and expert systems.
+
+---
+
+### Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+API services, backend platforms, and developer tooling systems.
 
 ---
 
@@ -155,23 +165,25 @@ Machine learning pipelines, reasoning engines, and knowledge-based expert system
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-Developer tools, visualization systems, and automation platforms.
+Developer tools, dashboards, and system visualization interfaces.
 
 ---
 
-### Infrastructure & Systems Environment
+### Infrastructure & Platforms
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Containerized environments, distributed infrastructure, and CLI tooling.
+Distributed infrastructure, containerized environments, and developer workflows.
 
 ---
 
 ### Data & Storage
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
