@@ -14,6 +14,7 @@
 [![CodeCadence](https://img.shields.io/badge/CodeCadence-codecadence.dev-302b63?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.codecadence.dev)
 
 <br/>
+
 ![GitHub followers](https://img.shields.io/github/followers/sedegah?style=for-the-badge&color=302b63&labelColor=0f0c29&label=FOLLOWERS)
 
 </div>
