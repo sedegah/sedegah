@@ -69,14 +69,14 @@ Current interests include:
       <p><strong>Stack:</strong> TypeScript · Next.js · Tailwind · Unicode Analysis</p>
     </td>
     <td width="50%">
-      <h3 align="center">BlackIce</h3>
+      <h3 align="center">Tempest</h3>
       <p align="center">
-        <a href="https://github.com/sedegah/BlackIce">
+        <a href="https://github.com/sedegah/Tempest">
           <img src="https://img.shields.io/badge/View%20Repo-302b63?style=for-the-badge&logo=github" />
         </a>
       </p>
-      <p>A hybrid network security system combining high-performance packet capture in Go with a Python neural engine for real-time anomaly detection and network threat analysis.</p>
-      <p><strong>Stack:</strong> Go · Python · Network Security · Machine Learning</p>
+      <p>A privacy-first, ephemeral file-sharing platform designed for maximum security and minimal footprint.</p>
+      <p><strong>Stack:</strong> Python · Django · Network Security · Cloudflare</p>
     </td>
   </tr>
   <tr>
