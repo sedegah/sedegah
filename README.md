@@ -75,7 +75,7 @@ Current interests include:
           <img src="https://img.shields.io/badge/View%20Repo-302b63?style=for-the-badge&logo=github" />
         </a>
       </p>
-      <p>A privacy-first, ephemeral file-sharing platform designed for maximum security and minimal footprint.</p>
+      <p>A privacy-first, ephemeral file-sharing platform designed for maximum security and minimal footprint. Built on Django and Cloudflare R2, it provides a "Snapchat for files" experience where every link is a ticking clock.</p>
       <p><strong>Stack:</strong> Python · Django · Network Security · Cloudflare</p>
     </td>
   </tr>
